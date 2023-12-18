@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 # Logo
-logo: "/assets/logo.png"
+logo: "/trans-patient-union-site/assets/logo.png"
 
 
 # Exclude from processing.
