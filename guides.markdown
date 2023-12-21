@@ -6,7 +6,7 @@ permalink: "/guides/"
 
 ## Health Care
 
-### [HRT Guide for McGill University Students]({% post_url 2023-12-19-hrt-guide %})
+### [HRT Guide for McGill University Students]({% link _posts/guides/mcgill_specific/2023-12-19-hrt-guide.markdown %})
 
 #### [Megalist of Montreal HRT Providers](https://docs.google.com/document/d/1XEaPHiunufc-wbjKacb6Vrt0OjlbeDGptFiqKNC6-Xw)
 
@@ -22,7 +22,7 @@ permalink: "/guides/"
 
 ## Insurance
 
-### [Insurance Guides for McGill and Concordia Students]({% post_url 2023-12-19-insurance-guide %})
+### [Insurance Guides for McGill and Concordia Students]({% link _posts/guides/mcgill_specific/2023-12-19-insurance-guide.markdown %})
 
 ---
 

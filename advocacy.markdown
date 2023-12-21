@@ -12,4 +12,4 @@ permalink: "/advocacy/"
 
 ---
 
-### [Forms to Improve Our Resources]({% post_url 2023-12-20-info-gather %})
+### [Forms to Improve Our Resources]({% link _posts/advocacy/2023-12-20-info-gather.markdown %})
