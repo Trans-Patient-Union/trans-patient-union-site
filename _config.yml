@@ -21,9 +21,9 @@
 title: McGill Trans Patient Union
 email: unionreptpu@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
-  "McGill University is on land which has long served as a site of meeting and exchange amongst Indigenous peoples, including the Haudenosaunee and Anishinabeg nations. We acknowledge and thank the diverse Indigenous peoples whose presence marks this territory on which peoples of the world now gather."
+  "The Trans Patient Union is an advocacy and mutual aid collective by and for trans and nonbinary patients at McGill and in broader Tio’tia:ke (colonially known as Montreal)."
 baseurl: "/trans-patient-union-site" # the subpath of your site, e.g. /blog
-url: "https://va2qed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://va2qed.github.io/trans-patient-union-site" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: "transpatients"
 
 # Build settings
@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 # Logo
-logo: "/trans-patient-union-site/assets/logo.png"
+logo: "assets/logo.png"
 
 
 # Exclude from processing.
