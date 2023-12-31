@@ -18,22 +18,36 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: McGill Trans Patient Union
+title: Trans Patient Union at McGill
+
+title-displayed: Trans Patient Union <br> at McGill University
+
 email: unionreptpu@gmail.com
+
 description:  # this means to ignore newlines until "baseurl:"
   "The Trans Patient Union is an advocacy and mutual aid collective by and for trans and nonbinary patients at McGill and in broader Tio’tia:ke (colonially known as Montreal)."
+
 baseurl: "/trans-patient-union-site/" # the subpath of your site, e.g. /blog
+
+# baseurl: "" # use this for development purposes
+
 url: "https://va2qed.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
 instagram_username: "transpatients"
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
 # Logo
 logo: "assets/logo.png"
 
+# header background
+header-banner: "assets/tpu_banner_3.png"
+# exclude
+exclude: [_unused_layouts, _unused_sass]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
