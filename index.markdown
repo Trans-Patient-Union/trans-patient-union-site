@@ -5,27 +5,41 @@
 layout: home
 ---
 
-The Trans Patient Union is an advocacy and mutual aid collective by and for trans and nonbinary patients at McGill and in broader Tio’tia:ke (colonially known as Montreal). The TPU believes that the experiences and insights of trans and nonbinary patients are necessary for the development of good standards of care. We also believe it is critical that patients have access to tools to navigate medical institutions, and quality information on standards of care so they can advocate for themselves in accessing care. As such, at the TPU we advocate to improve the standards of care for trans and nonbinary patients at the McGill Wellness Hub. Additionally, we provide resources and one on one assistance to trans and NB people navigating the medical, legal, and institutional difficulties of transitioning at McGill and in Tio’tia:ke.
+## TODO: make banner and make resource index more eye catching
 
-> McGill University is on land which has long served as a site of meeting and exchange amongst Indigenous peoples, including the Haudenosaunee and Anishinabeg nations. We acknowledge and thank the diverse Indigenous peoples whose presence marks this territory on which peoples of the world now gather.
+The Trans Patient Union is an advocacy and mutual aid collective by and for trans and nonbinary patients at McGill and in broader Tio’tia:ke (colonially known as Montreal).
+
+More text
+
+<span style="color:gray">*McGill and the TPU operate on stolen Haudenosaunee and Anishinaabe, traditional territories.*</span>
 
 
-## Guides to Transition and Patient Advocacy
+
+# Guides to Transition and Patient Advocacy
 You can find the links to our resources at the top of the page, or alternatively click here
 - [Patient Advocacy](advocacy)
-- [Guide to Trans Health Care](guides)
+- [Resource Index](guides)
 
-# Patient Reporting
-We are constantly seeking to improve and update our resources and know which issues to advocate for trans patients. If you are interested in talking about your trans or non-binary healthcare experiences at McGill or Montreal, please feel free to sign up for an 
-[interview](https://docs.google.com/forms/d/e/1FAIpQLSeKaSSFFmY4NMLWJDhsdH9w7v1bp1lVxfz1RK9ZKbTtqKQc6g/viewform).
+# We Want to Hear Your Experiences with Transition!
 
-You can also anonymously report your experiences with McGill's Student Wellness Hub with our [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeWWUuNY1q_Tp2kmBF4lTsoAHnqWHrjpzKwp9pJGobXwKA8ag/viewform).
+We cannot make these critical resources or advocate for better care without patients like you who take the time to tell us about your transition experiences. We highly encourage patients at McGill and in Montreal to meet with us or fill out our surveys. 
 
-Comments, suggestions, or feedback on Trans Patient Union Resources? Please feel free to share them in our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSerZAVmm0v3k6GNB3GGfWLwHsOEXGFuTqXM7C5c4MM1GmBhHw/viewform)
+- Reach out for an [interview](https://docs.google.com/forms/d/e/1FAIpQLSeKaSSFFmY4NMLWJDhsdH9w7v1bp1lVxfz1RK9ZKbTtqKQc6g/viewform) with us in person (coffee/tea are on us) or over zoom.
+
+- You can also anonymously report your experiences with McGill's Student Wellness Hub with our [questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSeWWUuNY1q_Tp2kmBF4lTsoAHnqWHrjpzKwp9pJGobXwKA8ag/viewform).
+
+- Comments, suggestions, or feedback on Trans Patient Union Resources? Please feel free to share them in our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSerZAVmm0v3k6GNB3GGfWLwHsOEXGFuTqXM7C5c4MM1GmBhHw/viewform)
 
 
-# Contact Us
-We offer assistance to anyone trying to access gender afirming care in Montreal. Please feel free to contact us via our [email](mailto:{{site.email}}), or our [Instagram](https://www.instagram.com/{{site.instagram_username}})
+# Need One-on-One Help with Transition?
+We offer assistance to anyone trying to access gender affirming care in Montreal and beyond. Please feel free to contact us via our [email](mailto:{{site.email}}), or our [Instagram](https://www.instagram.com/{{site.instagram_username}}).
+
+
+> TODO: REWRITE
+>
+> McGill University is on land which has long served as a site of meeting and exchange amongst Indigenous peoples, including the Haudenosaunee and Anishinabeg nations. We acknowledge and thank the diverse Indigenous peoples whose presence marks this territory on which peoples of the world now gather.
+
+<br> 
 
 ---
 

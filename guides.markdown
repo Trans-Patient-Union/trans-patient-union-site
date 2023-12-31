@@ -1,8 +1,12 @@
 ---
 layout: page
-title: "Guide to Trans Health Care"
+title: "Resource Index"
 permalink: "/guides/"
 ---
+
+## Feedback
+See something that's different from your experiences? Fill out this survey to let us know!
+#### [General Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSerZAVmm0v3k6GNB3GGfWLwHsOEXGFuTqXM7C5c4MM1GmBhHw/viewform)
 
 ## Health Care
 
