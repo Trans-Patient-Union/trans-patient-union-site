@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## TODO: make banner and make resource index more eye catching
+TODO: make banner and make resource index more eye catching
 
 The Trans Patient Union is an advocacy and mutual aid collective by and for trans and nonbinary patients at McGill and in broader Tio’tia:ke (colonially known as Montreal).
 
