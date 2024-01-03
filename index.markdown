@@ -30,8 +30,6 @@ We cannot make these critical resources or advocate for better care without pati
 
 - Comments, suggestions, or feedback on Trans Patient Union Resources? Please feel free to share them in our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSerZAVmm0v3k6GNB3GGfWLwHsOEXGFuTqXM7C5c4MM1GmBhHw/viewform)
 
-All the active consultations can also be found on [this page]({{ site.baseurl }}{% link _posts/advocacy/2023-12-20-info-gather.markdown %})
-
 # Need One-on-One Help with Transition?
 We offer assistance to anyone trying to access gender affirming care in Montreal and beyond. Please feel free to contact us via our [email](mailto:{{site.email}}), or our [Instagram](https://www.instagram.com/{{site.instagram_username}}).
 
