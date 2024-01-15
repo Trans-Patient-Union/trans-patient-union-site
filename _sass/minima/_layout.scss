@@ -205,10 +205,15 @@
   * About Page
   */
 
-  .sponsor-column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
+  .sponsor-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+ .sponsor-column {
+    width: 35%;
+    padding: 0px;
   }
 
   .about-sponsor-images::after {

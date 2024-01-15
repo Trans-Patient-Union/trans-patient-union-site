@@ -16,19 +16,23 @@ We are always looking for new trans & NB people to join our committees, attend o
 
 <br>
 
-The TPU is a working group of Queer McGill and a workgroup of QPIRG McGill, we are extremely grateful for the financial and other forms of support, without which the TPU could not function as it does today. 
+The TPU is a working group of [Queer McGill](https://www.queermcgill.org/) and a workgroup of [QPIRG McGill](https://qpirgmcgill.org/), we are extremely grateful for the financial and other forms of support, without which the TPU could not function as it does today. 
 
 <!-- This absolutely has to be like this for now 
 ALso need to center this image.
 
 -->
 
-<div id="about-sponsor-images">
+<div id="about-sponsor-images" class="sponsor-container">
     <div id="about-sponsor-image-left" class="sponsor-column">
-        <img src="{{site.baseurl}}/assets/qm_logo.png" alt="Queer McGill Logo" style="width:100%">
+        <a href="https://www.queermcgill.org/">    
+            <img src="{{site.baseurl}}/assets/qm_logo.png" alt="Queer McGill Logo" style="width:100%">
+        </a>
     </div>
     <div id="about-sponsor-image-right" class="sponsor-column">
-        <img src="{{site.baseurl}}/assets/qpirg_logo.png" alt="QPIRG McGill Logo" style="width:100%">
+        <a href="https://qpirgmcgill.org/">
+            <img src="{{site.baseurl}}/assets/qpirg_logo.png" alt="QPIRG McGill Logo" style="width:100%">
+        </a>
     </div>
 </div>
 
