@@ -8,10 +8,29 @@ permalink: "/guides/"
 See something that's different from your experiences? Fill out this survey to let us know!
 #### [General Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSerZAVmm0v3k6GNB3GGfWLwHsOEXGFuTqXM7C5c4MM1GmBhHw/viewform)
 
-## Health Care
+<br>
 
-### [HRT Guide for McGill University Students]({{ site.baseurl }}{% link _posts/guides/mcgill_specific/2023-12-19-hrt-guide.markdown %})
+---
 
+<br>
+
+## McGill Specific Resource
+
+#### [Medical Guides for McGill Students]({% link _posts/guides/mcgill_specific/2023-12-19-mcgill-medical.markdown %})
+
+#### [Insurance Guides for McGill and Concordia Students]({% link _posts/guides/mcgill_specific/2023-12-19-insurance-guide.markdown %})
+
+#### [QUIPS Bursary Application](https://gscssmu.wufoo.com/forms/quips-bursary-application/)
+
+> A fortnightly SSMU fund for queer McGill students and alum who need emergency, basic needs, or community project funding. 
+
+<br>
+
+---
+
+<br>
+
+## Medical Transition in Montreal and Quebec
 #### [Megalist of Montreal HRT Providers](https://docs.google.com/document/d/1XEaPHiunufc-wbjKacb6Vrt0OjlbeDGptFiqKNC6-Xw)
 
 #### [List of Guides to Medical Transition in Quebec](https://docs.google.com/document/d/1XWReymTdgERAzm_VQMOnmEtXFjbnSX9FQlR3SU-_t9k)
@@ -22,21 +41,11 @@ See something that's different from your experiences? Fill out this survey to le
 
 > Includes surgery requirements. For more info, visit [GRS Site](www.grsmontreal.com) or [their email](mailto:document@grsmontreal.com) (they are pretty responsive)
 
----
-
-## Insurance
-
-### [Insurance Guides for McGill and Concordia Students]({{ site.baseurl }}{% link _posts/guides/mcgill_specific/2023-12-19-insurance-guide.markdown %})
+<br>
 
 ---
 
-## Funding and Financial Support
-
-#### [QUIPS Bursary Application](https://gscssmu.wufoo.com/forms/quips-bursary-application/)
-
-> A fortnightly SSMU fund for queer McGill students and alum who need emergency, basic needs, or community project funding. 
-
----
+<br>
 
 ## Legal Name and Sex Marker Change
 

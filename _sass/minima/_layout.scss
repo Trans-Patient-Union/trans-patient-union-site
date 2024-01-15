@@ -1,12 +1,18 @@
 /**
+  * Site background
+  */
+  .site-background {
+    background-size: 1000px;
+  }
+
+/**
  * Site header
  */
+
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-
-  background-size: 1000px;
   // Positioning context for the mobile navigation icon
   position: relative;
   
@@ -135,7 +141,8 @@
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
+  @include relative-font-size(1.375);
+  font-weight: 600;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -146,8 +153,8 @@
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(0.9375);
-  color: $grey-color;
+  @include relative-font-size(1);
+  font-weight: 600;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -194,7 +201,21 @@
   }
 }
 
+/**
+  * About Page
+  */
 
+  .sponsor-column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+  .about-sponsor-images::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
 /**
  * Page content
