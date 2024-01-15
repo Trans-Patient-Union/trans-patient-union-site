@@ -16,9 +16,9 @@ See something that's different from your experiences? Fill out this survey to le
 
 ## McGill Specific Resource
 
-#### [Medical Guides for McGill Students]({% link _posts/guides/mcgill_specific/2023-12-19-mcgill-medical.markdown %})
+#### [Medical Guides for McGill Students]({{ site.baseurl }}{% link _posts/guides/mcgill_specific/2023-12-19-mcgill-medical.markdown %})
 
-#### [Insurance Guides for McGill and Concordia Students]({% link _posts/guides/mcgill_specific/2023-12-19-insurance-guide.markdown %})
+#### [Insurance Guides for McGill and Concordia Students]({{ site.baseurl }}{% link _posts/guides/mcgill_specific/2023-12-19-insurance-guide.markdown %})
 
 #### [QUIPS Bursary Application](https://gscssmu.wufoo.com/forms/quips-bursary-application/)
 
