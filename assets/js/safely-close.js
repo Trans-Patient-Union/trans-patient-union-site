@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         document.body.innerHTML = "";
         for(var i = 0; i < 9; i++) {
             // ENSURE TO CHANGE THE SITE.BASEURL MANUALLY IF YOU CHANGE THE SITE STRUCTURE
-            history.pushState("random", "", "/assets/information.html")
+            history.pushState("random", "", "assets/information.html")
         }
         window.open(siteRedirect)
         location.replace(siteRedirect)
