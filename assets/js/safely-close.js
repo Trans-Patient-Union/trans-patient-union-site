@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    var siteRedirect = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+    var siteRedirect = "https://www.google.com";
     document.getElementById("safely-close").addEventListener('click', function() {
         document.body.innerHTML = "";
         for(var i = 0; i < 9; i++) {
