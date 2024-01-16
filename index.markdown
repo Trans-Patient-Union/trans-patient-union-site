@@ -7,9 +7,9 @@ layout: home
 
 <!--TODO: make banner and make resource index more eye catching -->
 
-The Trans Patient Union is an advocacy and mutual aid collective by and for trans and nonbinary patients at McGill and in broader Tio’tia:ke (colonially known as Montreal).
+## The Trans Patient Union is an advocacy and mutual aid collective by and for trans and nonbinary patients at McGill and in broader Tio’tia:ke (colonially known as Montreal).
 
-<span style="color:gray">*McGill and the TPU operate on stolen Haudenosaunee and Anishinaabe lands.*</span>
+### <span style="color:gray">*McGill and the TPU operate on stolen Haudenosaunee and Anishinaabe lands.*</span>
 
 
 
