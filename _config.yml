@@ -47,7 +47,7 @@ logo: "assets/logo.png"
 # header background
 header-banner: "assets/tpu_banner_3.png"
 # exclude
-exclude: [_unused_layouts, _unused_sass]
+exclude: [_unused_layouts, _unused_sass, README.md]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
