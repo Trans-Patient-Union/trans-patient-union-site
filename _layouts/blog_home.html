@@ -2,20 +2,30 @@
 layout: default
 ---
 
-<h2 class="post-list-heading">Blog</h2>
+
+<h1 class="post-title" >Blog</h1>
+
+<br>
+
 <ul class="post-list">
-      {%- for blog in site.categories.blog -%}
+      {%- for blog in site.categories.blog-%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ blog.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ blog.url | relative_url }}">
-            {{ blog.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ blog.excerpt }}
-        {%- endif -%}
+        <div class="blog-post">
+          <div class="blog-thumbnail">
+              <img src="{{ blog.thumbnail | relative_path }}" alt="{{ blog.title | escape }}"/>
+            </a>
+          </div>
+          <div class="blog-title-date-exerpt">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ blog.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ blog.url | relative_url }}">
+                {{ blog.title | escape }}
+              </a>
+            </h3>
+            {{ blog.excerpt | markdownify }}
+          </div>
+        </div>
       </li>
       {%- endfor -%}
     </ul>
