@@ -284,6 +284,28 @@
   }
 }
 
+.blog-post{
+  // border: 3px solid red;
+  display: flex;
+  padding: 10px;
+  height: auto
+}
+.blog-thumbnail {
+  width: 40%;
+  float: left;
+  padding: 0px;
+  // border: 1px outset black;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.blog-title-date-exerpt {
+  width: 75%;
+  float: right;
+  padding: 20px;
+  // border: 3px solid blue;
+  flex-grow: 1;
+}
+
 /**
   * About Page
   */
