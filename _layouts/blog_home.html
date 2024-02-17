@@ -12,7 +12,8 @@ layout: default
       <li>
         <div class="blog-post">
           <div class="blog-thumbnail">
-              <img src="{{ blog.thumbnail | relative_path }}" alt="{{ blog.title | escape }}"/>
+            <a href="{{ blog.url | relative_url }}">
+              <img src="{{ blog.thumbnail | relative_path }}" alt="{{ blog.title | escape }}">
             </a>
           </div>
           <div class="blog-title-date-exerpt">
@@ -23,7 +24,7 @@ layout: default
                 {{ blog.title | escape }}
               </a>
             </h3>
-            {{ blog.excerpt | markdownify }}
+            {{ blog.excerpt | markdownify | truncate: 200}}
           </div>
         </div>
       </li>
