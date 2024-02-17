@@ -2,7 +2,7 @@
 layout: post
 title: "The Trans Patient Union is Looking for New Members!"
 date:   2024-02-14 16:34:00 -0500
-category: [blog, recruiting]
+category: [news, recruiting]
 tags: [recruiting, new members]
 thumbnail: /assets/img/new_members.png
 ---
