@@ -19,7 +19,7 @@ You can browse the [Resource Index](guides) at the top of the page.
 Or for one-on-one help with transition in Montreal or beyond, contact us on [instagram]({{site.instagram}}) or by [email](mailto:{{site.email}}).
 
 # Updates from the TPU
-You can find our latest updates on our [Instagram]({{site.instagram}}) or on our [Site Blog](blog).
+You can find our latest updates on our [Instagram]({{site.instagram}}) or on the [news section](news).
 
 # We Want to Hear Your Experiences with Transition!
 
