@@ -1,0 +1,44 @@
+---
+layout: post
+title: "How to Survive Montreal Healthcare as a Trans Patient: A TPU Workshop provided for P10"
+date:   2024-02-17 00:45:00 -0500
+category: [news, events, workshop]
+tags: [p10, workshop, event, news]
+thumbnail: /assets/img/p10-workshop.png
+---
+This workshop is a practical guide to and a critical analysis of the transition access in Montreal.
+
+In this workshop, you will learn how patients are mobilizing to provide mutual aid and advocate for better care. Come share your transition experiences with fellow patients!
+
+The workshop intended for young adults of 18 to 25 years old. It is held on Monday, February 19th, 2024 from 5:00 PM -- 7:30 PM at Project 10 office -- 10138 rue Lajeunesse Suite #301, Montreal, QC H3L 2E2.
+
+You can sign up for the workshop [here](https://docs.google.com/forms/d/e/1FAIpQLSf-V9c7AOu6Ws2W35xgkPjzGBCqwSOAnMLW1K834rYGvmO-IA/viewform?fbclid=PAAabsLSsc-qAHh8dn2ET-VXa1Boq4WP1Y99Jx9eBTvct9G0IGbtPfA8hmGlk). Note that the workshop is in English.
+
+[Add this event to your calendar!](https://www.google.com/calendar/event?eid=NnRkb2V2YnVkamMwN2E1cXQwYWRnNmc0am8gdThvbzFsZnQ3MjMwMHRnZzcyOWdsaG1kZXNAZw&ctz=America/Toronto)
+
+<br>
+
+---
+
+<br>
+
+<!--
+This absolutely has to be like this for now, I have no time to
+organize the CSS properly.
+Also need to center the two images
+It is 12:35 AM, I need to sleep.
+Send help.
+-->
+
+<div id="about-sponsor-images" class="sponsor-container" style="align-items: baseline">
+    <div id="about-sponsor-image-left" class="sponsor-column" >
+        <a href="https://p10.qc.ca/">    
+            <img src="{{site.baseurl}}/assets/p10_logo.png" alt="Project 10 Logo" style="width:75%">
+        </a>
+    </div>
+    <div id="about-sponsor-image-right" class="sponsor-column" >
+        <a href="https://transpatientunion.org">
+            <img src="{{site.baseurl}}/assets/logo.png" alt="Trans Patient Union at McGill Logo" style="width:100%">
+        </a>
+    </div>
+</div>
