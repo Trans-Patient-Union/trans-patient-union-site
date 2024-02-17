@@ -2,7 +2,7 @@
 layout: post
 title: "An Intro to the New Extended Gender Affirming Coverage"
 date:   2024-02-14 15:35:00 -0500
-category: [blog, insurance]
+category: [news, insurance]
 tags: [insurance, StudentCare, GreenShield, Blue Cross, RAMQ, McGill, Concordia, Wellness Hub, Health Services Clinic]
 thumbnail: /assets/img/intro_to_gac_coverage.jpeg
 ---
