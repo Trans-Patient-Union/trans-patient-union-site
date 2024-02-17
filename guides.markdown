@@ -30,12 +30,14 @@ See something that's different from your experiences? Fill out this survey to le
 
 <br>
 
-## Medical Transition in Montreal and Quebec
-#### [Megalist of Montreal HRT Providers](https://docs.google.com/document/d/1XEaPHiunufc-wbjKacb6Vrt0OjlbeDGptFiqKNC6-Xw)
+## Medical Transition in Montreal and Quebec 
+### Transition medical à Montréal et au Québec
 
-#### [List of Guides to Medical Transition in Quebec](https://docs.google.com/document/d/1XWReymTdgERAzm_VQMOnmEtXFjbnSX9FQlR3SU-_t9k)
+#### [Megalist of Montreal HRT Providers](https://docs.google.com/document/d/1XEaPHiunufc-wbjKacb6Vrt0OjlbeDGptFiqKNC6-Xw) / [Mégaliste des Fournisseurs d'HRT à Montréal](https://docs.google.com/document/d/1orf7yv6fqI9VELfhejxauYA16xoGY01EOy_PggN2zug)
 
-#### [List of Guides to Gender-Affirming Care for Medical Professionals](https://docs.google.com/document/d/1js1h9AvUFhhPmofQrYti3U-4rbDpDVoEF-bZRpLKNv0)
+#### [List of Guides to Medical Transition in Quebec](https://docs.google.com/document/d/1XWReymTdgERAzm_VQMOnmEtXFjbnSX9FQlR3SU-_t9k) / [Liste de Guides de Transition Médicale au Québec](https://docs.google.com/document/d/1c8f7-CuiaMesZ_gzQnAdj-KVMd81VTPROEh5sBo7vZs)
+
+#### [List of Guides to Gender-Affirming Care for Medical Professionals](https://docs.google.com/document/d/1js1h9AvUFhhPmofQrYti3U-4rbDpDVoEF-bZRpLKNv0) / [Liste de Guides sur les Soins D'affirmation de Genre à L'intention les Professionnels de la Santé](https://docs.google.com/document/d/1vcjveqETwuqhAM4YSkvrBC-DL1cqz7DG5sLFpLlnnpQ)
 
 #### [GRS Montreal Surgeries - General Information Booklet 2023](https://drive.google.com/file/d/1XEv0rPXsENHNn42QkvDFCNNtn_hRocM6/view)
 
