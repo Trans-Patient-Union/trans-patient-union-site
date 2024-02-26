@@ -7,7 +7,7 @@ category: guides
 
 
 
-#### [Complete Guide to Hormone Replacement Therapy for McGill Students](https://docs.google.com/document/d/1Z0640BuOA4BcWed71w3FqYiCxIIXNpG68Tx26775TDk)
+#### [Complete Guide to Hormone Replacement Therapy for McGill Students](https://docs.google.com/document/d/1Z0640BuOA4BcWed71w3FqYiCxIIXNpG68Tx26775TDk) / [Guide complet sur le THS pour les étudiants de McGill](https://docs.google.com/document/d/1iP7DGOKvxkW3tQRpVOd26nbq9Cy2S7PvIl9gmWxXFIk)
 
 #### [Recommendation Letters & Gender Dysphoria Diagnosis: Procedure & List](https://docs.google.com/document/d/1QtC4NH0YoKTqmOydDV_89G4fNKE9Kdd_7XjrreP5vuA)
 
