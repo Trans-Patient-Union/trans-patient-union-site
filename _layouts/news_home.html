@@ -6,7 +6,10 @@ layout: default
 <h1 class="post-title" >News</h1>
 
 <br>
-
+<div align="center">
+  {{ content }}
+</div>
+<br>
 <ul class="post-list">
       {%- for news in site.categories.news-%}
       <li>
