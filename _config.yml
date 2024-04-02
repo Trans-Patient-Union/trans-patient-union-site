@@ -19,19 +19,26 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Trans Patient Union at McGill
+title-fr: Union des Patient Trans
 
 title-displayed: Trans Patient Union <br> at McGill University
+title-displayed-fr: Union des Patient Trans <br> à l'Université McGill
 
 email: unionreptpu@gmail.com
 reporting_email: reporting.tpu@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
   "The Trans Patient Union is an advocacy and mutual aid collective by and for trans and nonbinary patients at McGill and in broader Tio’tia:ke (colonially known as Montreal)."
 
+description_fr:
+  "L'Union des patients lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, vestibulum mi nec, ultrices ipsum. Nulla nec purus feugiat, vestibulum"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # baseurl: "" # use this for development purposes
 
 url: "https://transpatientunion.org" # the base hostname & protocol for your site, e.g. http://example.com
+
+newsletter_url: "https://trans-patient-union.ck.page/48a5adc29e"
 
 instagram_username: "transpatients"
 
