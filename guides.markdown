@@ -27,6 +27,8 @@ See something that's different from your experiences? Fill out this survey to le
 #### [McGill 2SLGBTQ+ Emergency Bursary](https://www.mcgill.ca/studentaid/special-funding/2slgbtq)
 > A new bursary was introduced as of the 2023-2024 academic year for 2SLGBTQ+ students for emergency costs caused by homophobia and transphobia, medical costs and administrative costs. Please check Scholarship and Student Aid for the most up-to-date information and application process.
 
+#### [Student Wellness Hub Feedback Form](https://www.mcgill.ca/wellness-hub/student-wellness-hub-feedback-form)
+> If you have feedback on the Student Wellness Hub, you can fill out this form to let them know. We also encourage you to reach out to us as part of our ongoing patient interviewing program to help us advocate for better services. Please reach out to us via [email](mailto:{{ site.email }}). or [Instagram](https://www.instagram.com/{{ site.instagram_username }}).
 
 <br>
 
@@ -46,6 +48,12 @@ See something that's different from your experiences? Fill out this survey to le
 #### [GRS Montreal Surgeries - General Information Booklet 2023](https://drive.google.com/file/d/1XEv0rPXsENHNn42QkvDFCNNtn_hRocM6/view)
 
 > Includes surgery requirements. For more info, visit [GRS Site](www.grsmontreal.com) or [their email](mailto:document@grsmontreal.com) (they are pretty responsive)
+
+#### [Trans Care Clinic by Community Healing Days](https://www.communityhealingdays.ca/transcare)
+
+> Pop-up clinics providing holistic care supporting pre & post gender related surgeries. 
+> 
+> 2024 Dates: June 11th, Sept 12th, Nov 14th. Please check their website for the most up-to-date information.
 
 <br>
 
