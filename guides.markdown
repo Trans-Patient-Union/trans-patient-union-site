@@ -55,6 +55,7 @@ See something that's different from your experiences? Fill out this survey to le
 > 
 > 2024 Dates: June 11th, Sept 12th, Nov 14th. Please check their website for the most up-to-date information.
 
+#### [Meet a Patient Program / Rencontre un.e patient trans]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %})
 <br>
 
 ---
