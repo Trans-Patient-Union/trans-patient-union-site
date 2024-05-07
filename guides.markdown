@@ -56,6 +56,19 @@ See something that's different from your experiences? Fill out this survey to le
 > 2024 Dates: June 11th, Sept 12th, Nov 14th. Please check their website for the most up-to-date information.
 
 #### [Meet a Patient Program / Rencontre un.e patient trans]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %})
+
+### AGIR Guide (English, Français, Español)
+
+#### [AGIR's Guide for Access to Services for LGBTQIA+ Immigrant and Refugees in Montreal](https://drive.google.com/file/d/1jOHrTOdu7l5M2KFtk4YKeyNeSJXosjgt/view)
+>  Includes info on refugee claimant insurance (IFHP) and HRT, gender-affirming surgeries, PrEP and STBBI, mental health services.
+
+#### [Guide de Service Dédiés aux Immigrant.e.s et Réfugié.e.s LGBTQAI+ par AGIR](https://drive.google.com/file/d/1qm75GgyxQaxoenM5JPl3vd4fesNF9NqP/view)
+
+> Inclue des infos sur l'assurance des Personnes demandeuses d'asile (PFSI) et l'hormonothérapie, les chirurigie trans-affirmatives, le PrEP et dépistage ITSS, services en santé mentale.
+
+#### [Guía de Herramientas para Acceso a Servicios Centrados en Personas Inmigrantes y Refugiadas LGBTQAI+](https://drive.google.com/file/d/1hjvv9FgOHieabp-mzogKqG1oqHu58EL7/view)
+> Incluye información sobre el seguro de personas solicitantes de refugio, tratamiento hormonal, cirugías de afirmación de género, medidas para prevenir el VIH y enfermedades de transmisión sexual, servicios para salud mental
+
 <br>
 
 ---
