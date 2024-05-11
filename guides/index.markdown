@@ -77,7 +77,7 @@ See something that's different from your experiences? Fill out this survey to le
 
 ## Legal Name and Sex Marker Change
 
-#### [Legal Name Change Flowcharts](https://docs.google.com/document/d/1EBOgUek9VibksaYJkAK7YoLOBAZlY_NoLDg_8kbpcfE)
+#### [Legal Name Change Flowcharts](./name-change) \[[fr](./changement-de-nom)\]
 
 #### Trans ID Clinic
 - A fantastic name and sex marker change clinic that pops up a few times a month. Usually in Montreal but sometimes elsewhere in Quebec. Dates and info advertised on the [Translaw Instagram](https://www.instagram.com/translaw/) run by Celeste Trianon.
