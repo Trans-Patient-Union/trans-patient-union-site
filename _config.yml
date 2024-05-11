@@ -51,6 +51,14 @@ plugins:
 # Logo
 logo: "assets/logo.png"
 
+# Pages to appear in the header
+header_pages:
+  - about.markdown
+  - news_home.markdown
+  - ongoing.markdown
+  - advocacy.markdown
+  - guides/index.markdown
+
 # header background
 header-banner: "assets/tpu_banner_3.png"
 # exclude
