@@ -28,7 +28,7 @@ See something that's different from your experiences? Fill out this survey to le
 > A new bursary was introduced as of the 2023-2024 academic year for 2SLGBTQ+ students for emergency costs caused by homophobia and transphobia, medical costs and administrative costs. Please check Scholarship and Student Aid for the most up-to-date information and application process.
 
 #### [Student Wellness Hub Feedback Form](https://www.mcgill.ca/wellness-hub/student-wellness-hub-feedback-form)
-> If you have feedback on the Student Wellness Hub, you can fill out this form to let them know. We also encourage you to reach out to us as part of our ongoing patient interviewing program to help us advocate for better services. Please reach out to us via [email](mailto:{{ site.email }}). or [Instagram](https://www.instagram.com/{{ site.instagram_username }}).
+> If you have feedback on the Student Wellness Hub, you can fill out this form to let them know. We also encourage you to reach out to us as part of our ongoing patient interviewing program to help us advocate for better services. Please reach out to us via [email](mailto:{{ site.email }}). or [Instagram]({{ site.instagram }}).
 
 <br>
 

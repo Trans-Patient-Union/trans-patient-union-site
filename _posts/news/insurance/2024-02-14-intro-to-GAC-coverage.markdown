@@ -59,6 +59,6 @@ This provider has told the CSU that they would not make patients come back 6 mon
 - The coverage says laser but they mean laser and electrolysis. Electrolysis is also covered!
 
 ## Want to know more?
-Consult the [Insurance Section of the TPU Resource Index]({% post_url 2023-12-19-insurance-guide %}).
+Consult the [Insurance Section of the TPU Resource Index]({% link  _posts/guides/mcgill_specific/2023-12-19-insurance-guide.markdown %}).
 
 Always feel free to reach out to DM or email us for one-on-one help!

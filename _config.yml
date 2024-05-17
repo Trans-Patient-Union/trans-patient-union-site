@@ -40,7 +40,11 @@ url: "https://transpatientunion.org" # the base hostname & protocol for your sit
 
 newsletter_url: "https://trans-patient-union.ck.page/48a5adc29e"
 
+# used for the social media links in the footer, jekyll madness, see social.html in the theme
 instagram_username: "transpatients"
+
+# use this to link to the instagram page
+instagram: "https://www.instagram.com/transpatients/"
 
 # Build settings
 theme: minima
