@@ -69,6 +69,8 @@ See something that's different from your experiences? Fill out this survey to le
 #### [Guía de Herramientas para Acceso a Servicios Centrados en Personas Inmigrantes y Refugiadas LGBTQAI+](https://drive.google.com/file/d/1hjvv9FgOHieabp-mzogKqG1oqHu58EL7/view)
 > Incluye información sobre el seguro de personas solicitantes de refugio, tratamiento hormonal, cirugías de afirmación de género, medidas para prevenir el VIH y enfermedades de transmisión sexual, servicios para salud mental
 
+#### [ASTT(e)Q Permanence Walk-In Services](https://www.instagram.com/p/C9A2RnUO3yV)
+> Permanence offers various services such as individual support with intervention workers, assistance on administrative procedures, referrals, HRT, and distribution of various harm reduction supplies such as condoms, HRT syringes, and safe consumption supplies. Please see their instagram for the most up-to-date information.
 <br>
 
 ---
