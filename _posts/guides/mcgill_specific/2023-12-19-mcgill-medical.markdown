@@ -11,6 +11,8 @@ category: guides
 
 #### [Recommendation Letters & Gender Dysphoria Diagnosis: Procedure & List](https://docs.google.com/document/d/1QtC4NH0YoKTqmOydDV_89G4fNKE9Kdd_7XjrreP5vuA) / [Lettres de Recommandation et Diagnostic de Dysphorie de Genre : Procédure et Liste](https://docs.google.com/document/d/1moXCps1UhpVFeEdVHNBzhl6IUC5CCpqcokuU-bia3bs)
 
+#### [Student Wellness Hub Feedback Form](https://www.mcgill.ca/wellness-hub/student-wellness-hub-feedback-form)
+> If you have feedback on the Student Wellness Hub, you can fill out this form to let them know. We also encourage you to reach out to us as part of our ongoing patient interviewing program to help us advocate for better services. Please reach out to us via [email](mailto:{{ site.email }}). or [Instagram]({{ site.instagram }}).
 <br>
 
 ---
