@@ -19,7 +19,7 @@ See something that's different from your experiences? Fill out this survey to le
 
 #### [Megalist of Montreal HRT Providers](https://docs.google.com/document/d/1XEaPHiunufc-wbjKacb6Vrt0OjlbeDGptFiqKNC6-Xw) / [Mégaliste des Fournisseurs d'HRT à Montréal](https://docs.google.com/document/d/1orf7yv6fqI9VELfhejxauYA16xoGY01EOy_PggN2zug)
 
-#### [Meet a Patient Program / Rencontre un.e patient trans]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %})
+#### [Meet a Patient Program / Rencontre un.e patient trans / Conoce a un.a.e paciente trans]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %})
 
 #### [List of Guides to Medical Transition in Quebec](https://docs.google.com/document/d/1XWReymTdgERAzm_VQMOnmEtXFjbnSX9FQlR3SU-_t9k) / [Liste de Guides de Transition Médicale au Québec](https://docs.google.com/document/d/1c8f7-CuiaMesZ_gzQnAdj-KVMd81VTPROEh5sBo7vZs)
 
