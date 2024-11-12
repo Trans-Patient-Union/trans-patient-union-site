@@ -17,6 +17,8 @@ See something that's different from your experiences? Fill out this survey to le
 ## Medical Transition in Montreal and Quebec 
 ### Transition medical à Montréal et au Québec
 
+#### [Accessing Permanent Hair Removal as a Trans Patient in Montreal](https://docs.google.com/document/d/1_OF7YAQZ9UUFK3CzO2UmC3OBK1J5OhNvGpIaLcn1BT0) / [Accès à l'épilation permanente en tant que patient.e transgenre à Montréal](https://docs.google.com/document/d/1mdHdFKuRZ70f841Ee4YmTTQOBgxQ62OTmlbNuZ5U7-Y)
+
 #### [Megalist of Montreal HRT Providers](https://docs.google.com/document/d/1XEaPHiunufc-wbjKacb6Vrt0OjlbeDGptFiqKNC6-Xw) / [Mégaliste des Fournisseurs d'HRT à Montréal](https://docs.google.com/document/d/1orf7yv6fqI9VELfhejxauYA16xoGY01EOy_PggN2zug)
 
 #### [Meet a Patient Program / Rencontre un.e patient trans / Conoce a un.a.e paciente trans]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %})
@@ -46,7 +48,7 @@ See something that's different from your experiences? Fill out this survey to le
 
 <br>
 
-## McGill Specific Resource
+## McGill Specific Resources
 
 #### [Medical Guides for McGill Students / Guide Médical pour les étudiants de McGill]({{ site.baseurl }}{% link _posts/guides/mcgill_specific/2023-12-19-mcgill-medical.markdown %})
 
@@ -73,4 +75,4 @@ See something that's different from your experiences? Fill out this survey to le
 - In the past, Celeste has also taken care of professional translations associated with filling name/sex marker change paperwork if you are born outside of Quebec and your birth certificate isn’t in French. 
 
 #### Center for Gender Advocacy
-- They provide an ID change service with a commissioner of oath if you reach out and ask. Please [email them](mailto:info@genderadvocacy.org)
+- They provide an ID change service with a commissioner of oath if you reach out and ask. Please [email them](mailto:info@genderadvocacy.org).
