@@ -9,9 +9,9 @@ category: guides
 
 For SSMU and PGSS members, unless you opted out, Canadians have the full StudentCare coverage, and international students have partial coverage that complements their Blue Cross international insurance which include GAC. 
 
-Often, you need a diagnosis for gender dysphoria in order to access the healthcare coverage offered by Student Care, please refer to our guide on how to [obtain a gender dysphoria diagnosis](https://docs.google.com/document/d/1QtC4NH0YoKTqmOydDV_89G4fNKE9Kdd_7XjrreP5vuA).
+Often, you need a diagnosis for gender dysphoria in order to access the healthcare coverage offered by Student Care, please refer to our guide on how to [obtain a gender dysphoria diagnosis](https://docs.google.com/document/d/1QtC4NH0YoKTqmOydDV_89G4fNKE9Kdd_7XjrreP5vuA). 
 
-Version française [ici](https://docs.google.com/document/d/1IbvA8yonN17UnmNHQwxoyCOzrA3Rw0MTm1Ln2vtgr28)
+🇫🇷 [Version française du guide pour diagnostic de dysphorie de genre ici](https://docs.google.com/document/d/1IbvA8yonN17UnmNHQwxoyCOzrA3Rw0MTm1Ln2vtgr28).
 
 #### [Greenshield Coverage Description](https://www.studentcare.ca/RTEContent/Document/GAC/Gender%20Affimation%20EN.pdf)
 
