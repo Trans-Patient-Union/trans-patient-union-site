@@ -5,7 +5,7 @@ date:   2024-07-20 15:00:00 -0500
 category: guides
 ---
 
-#### [QUIPS Bursary Application](https://gscssmu.wufoo.com/forms/quips-bursary-application/)
+#### [QUIPS Bursary Application](https://clubsportal.ssmu.ca/quips-bursary-application/)
 
 > A fortnightly SSMU fund for queer McGill students and alum who need emergency, basic needs, or community project funding. 
 
