@@ -333,6 +333,20 @@
   flex-shrink: 1;
 }
 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.col-left {
+    float: left;
+}
+
+.col-right {
+    float: right;
+}
+
 /**
   * About Page
   */
