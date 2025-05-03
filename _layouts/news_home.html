@@ -6,8 +6,40 @@ layout: default
 <h1 class="post-title" >News</h1>
 
 <br>
+
 <div align="center">
   {{ content }}
+</div>
+
+<br>
+
+<div align="left">
+    {%- if site.posts.size > 0 -%}
+    <div class="row">
+        <div class="col-left">
+            <h2 class="post-list-heading">What's New</h2>
+        </div>
+        <div class="col-right">
+            <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+        </div>
+    </div>
+    <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+            {%- endif -%}
+        </li>
+        {%- endfor -%}
+    </ul>
+    {%- endif -%}
 </div>
 <!-- <br>
 <ul class="post-list">
