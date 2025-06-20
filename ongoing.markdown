@@ -4,6 +4,10 @@ title: "Ongoing Projects"
 permalink: "/ongoing/"
 ---
 
+### Vaginoplasty Survey
+Have you had a vaginoplasty performed by Montreal's GRS clinic? Are you three+ months post-op? Please take our survey on patient experiences!
+[English Version](https://tally.so/r/wdzqvA) / [Version Français](https://tally.so/r/n0kra6).
+
 ### Montreal HRT Provider Database
 Many trans patients struggle for years to access HRT. The process is obscure, waitlists can be years long, and  providers sometimes have transphobic and outdated practices. To help make the process simpler for patients, and to improve transparency, we are working on a comprehensive patient-sourced HRT providers list that will document patient experiences and provide critical information like pre-prescription practices.
 
