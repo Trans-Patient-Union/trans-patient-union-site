@@ -14,6 +14,7 @@ See something that's different from your experiences? [Fill out this survey to l
 ### 🇬🇧 Medical Transition in Montreal and Quebec 
 #### [Montreal HRT Provider Database](https://www.notion.so/Montreal-HRT-Project-b9f9e946e98244879be288878d4aef82?pvs=25)
 #### [Megalist of Montreal HRT Providers](https://docs.google.com/document/d/1XEaPHiunufc-wbjKacb6Vrt0OjlbeDGptFiqKNC6-Xw)
+#### [List of DIY HRT Resources](https://docs.google.com/document/d/1Bcyr7SWGb9Bo03ncXABOuHhhPcF26PQuuvxJ2-19oIA)
 #### [List of Guides to Medical Transition in Quebec](https://docs.google.com/document/d/1XWReymTdgERAzm_VQMOnmEtXFjbnSX9FQlR3SU-_t9k)
 #### [List of Guides to Gender-Affirming Care for Medical Professionals](https://docs.google.com/document/d/1js1h9AvUFhhPmofQrYti3U-4rbDpDVoEF-bZRpLKNv0)
 #### [Accessing Permanent Hair Removal as a Trans Patient in Montreal](https://docs.google.com/document/d/1_OF7YAQZ9UUFK3CzO2UmC3OBK1J5OhNvGpIaLcn1BT0)
@@ -21,9 +22,10 @@ See something that's different from your experiences? [Fill out this survey to l
 
 <br>
 
-### 🇫🇷 Transition medical à Montréal et au Québec
+### 🇫🇷 Transition Medical à Montréal et au Québec
 #### [Base de Données des Fournisseurs de THS Montréal](https://www.notion.so/Projet-THS-Montr-al-1beaca71e661800b9f82e6b91d6edf24)
-#### [Mégaliste des Fournisseurs d'THS à Montréal](https://docs.google.com/document/d/1orf7yv6fqI9VELfhejxauYA16xoGY01EOy_PggN2zug)
+#### [Mégaliste des Fournisseurs de THS à Montréal](https://docs.google.com/document/d/1orf7yv6fqI9VELfhejxauYA16xoGY01EOy_PggN2zug)
+#### [Liste de ressources de THS à faire soi-même](https://docs.google.com/document/d/1V4-nwRQueFOiuEdLSRok2BHp31liUHh4736sz7E95do/edit?tab=t.0)
 #### [Liste de Guides de Transition Médicale au Québec](https://docs.google.com/document/d/1c8f7-CuiaMesZ_gzQnAdj-KVMd81VTPROEh5sBo7vZs)
 #### [Liste de Guides sur les Soins D'affirmation de Genre à L'intention les Professionnels de la Santé](https://docs.google.com/document/d/1vcjveqETwuqhAM4YSkvrBC-DL1cqz7DG5sLFpLlnnpQ)
 #### [Accès à l'épilation permanente en tant que patient.e transgenre à Montréal](https://docs.google.com/document/d/1mdHdFKuRZ70f841Ee4YmTTQOBgxQ62OTmlbNuZ5U7-Y)
