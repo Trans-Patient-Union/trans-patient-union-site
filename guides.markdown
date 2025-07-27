@@ -19,6 +19,7 @@ See something that's different from your experiences? [Fill out this survey to l
 #### [List of Guides to Medical Transition in Quebec](https://docs.google.com/document/d/1XWReymTdgERAzm_VQMOnmEtXFjbnSX9FQlR3SU-_t9k)
 #### [List of Guides to Gender-Affirming Care for Medical Professionals](https://docs.google.com/document/d/1js1h9AvUFhhPmofQrYti3U-4rbDpDVoEF-bZRpLKNv0)
 #### [Accessing Permanent Hair Removal as a Trans Patient in Montreal](https://docs.google.com/document/d/1_OF7YAQZ9UUFK3CzO2UmC3OBK1J5OhNvGpIaLcn1BT0)
+#### [A Toolkit on Trans and Gender Diverse Patient-Advocacy](https://www.wisdom2action.org/rpt-toolkit/)
 #### [Meet a Patient Program]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %}#EN)
 
 <br>
