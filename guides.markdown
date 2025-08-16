@@ -19,7 +19,9 @@ See something that's different from your experiences? [Fill out this survey to l
 #### [List of Guides to Medical Transition in Quebec](https://docs.google.com/document/d/1XWReymTdgERAzm_VQMOnmEtXFjbnSX9FQlR3SU-_t9k)
 #### [List of Guides to Gender-Affirming Care for Medical Professionals](https://docs.google.com/document/d/1js1h9AvUFhhPmofQrYti3U-4rbDpDVoEF-bZRpLKNv0)
 #### [Accessing Permanent Hair Removal as a Trans Patient in Montreal](https://docs.google.com/document/d/1_OF7YAQZ9UUFK3CzO2UmC3OBK1J5OhNvGpIaLcn1BT0)
+#### [Trans Patients & Fertility Preservation in Montreal](https://docs.google.com/document/d/11yEDamdEGYbMS3-klio7rW7-g4FAgDfn3Ou3peH5nDo)
 #### [A Toolkit on Trans and Gender Diverse Patient-Advocacy](https://www.wisdom2action.org/rpt-toolkit/)
+#### [Name Change Megaresource](https://docs.google.com/document/d/1-2CGPE2W_slNMBmpGTkMQ8L4s8sKcGd8TbJBpfnbMc0)
 #### [Meet a Patient Program]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %}#EN)
 
 <br>
@@ -32,6 +34,7 @@ See something that's different from your experiences? [Fill out this survey to l
 #### [Liste de Guides de Transition Médicale au Québec](https://docs.google.com/document/d/1c8f7-CuiaMesZ_gzQnAdj-KVMd81VTPROEh5sBo7vZs)
 #### [Liste de Guides sur les Soins D'affirmation de Genre à L'intention les Professionnels de la Santé](https://docs.google.com/document/d/1vcjveqETwuqhAM4YSkvrBC-DL1cqz7DG5sLFpLlnnpQ)
 #### [Accès à l'épilation permanente en tant que patient.e transgenre à Montréal](https://docs.google.com/document/d/1mdHdFKuRZ70f841Ee4YmTTQOBgxQ62OTmlbNuZ5U7-Y)
+#### [Patientère trans et préservation de fertilité à Montréal](https://docs.google.com/document/d/1vmD_FZ_tLpZPfrNqVJa-xY_DyoI2kiT-6qQJeFwx3Q4/edit?tab=t.0)
 #### [Rencontre un.e patient trans]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %}#FR)
 
 <br>
