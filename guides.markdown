@@ -21,8 +21,8 @@ See something that's different from your experiences? [Fill out this survey to l
 #### [Accessing Permanent Hair Removal as a Trans Patient in Montreal](https://docs.google.com/document/d/1_OF7YAQZ9UUFK3CzO2UmC3OBK1J5OhNvGpIaLcn1BT0)
 #### [Trans Patients & Fertility Preservation in Montreal](https://docs.google.com/document/d/11yEDamdEGYbMS3-klio7rW7-g4FAgDfn3Ou3peH5nDo)
 #### [A Toolkit on Trans and Gender Diverse Patient-Advocacy](https://www.wisdom2action.org/rpt-toolkit/)
-#### [Name Change Megaresource](https://docs.google.com/document/d/1-2CGPE2W_slNMBmpGTkMQ8L4s8sKcGd8TbJBpfnbMc0)
 #### [Meet a Patient Program]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %}#EN)
+#### [Post-Surgery Support Program with ASTT(e)Q]({{site.baseurl}}{% link _posts/guides/2025-08-20-post-surgery-program-ASTTQ.markdown %}#EN)
 
 <br>
 
@@ -36,6 +36,7 @@ See something that's different from your experiences? [Fill out this survey to l
 #### [Accès à l'épilation permanente en tant que patient.e transgenre à Montréal](https://docs.google.com/document/d/1mdHdFKuRZ70f841Ee4YmTTQOBgxQ62OTmlbNuZ5U7-Y)
 #### [Patientère trans et préservation de fertilité à Montréal](https://docs.google.com/document/d/1vmD_FZ_tLpZPfrNqVJa-xY_DyoI2kiT-6qQJeFwx3Q4/edit?tab=t.0)
 #### [Rencontre un.e patient trans]({{site.baseurl}}{% link _posts/guides/2024-04-16-meet-a-trans-patient.markdown %}#FR)
+#### [Programme de soutien post-chirurgical avec ASTT(e)Q]({{site.baseurl}}{% link _posts/guides/2025-08-20-post-surgery-program-ASTTQ.markdown %}#FR)
 
 <br>
 
@@ -86,6 +87,7 @@ See something that's different from your experiences? [Fill out this survey to l
 ### Legal Name and Sex Marker Change
 
 #### [Legal Name Change Flowcharts](https://docs.google.com/document/d/1EBOgUek9VibksaYJkAK7YoLOBAZlY_NoLDg_8kbpcfE)
+#### [Name Change Megaresource](https://docs.google.com/document/d/1-2CGPE2W_slNMBmpGTkMQ8L4s8sKcGd8TbJBpfnbMc0)
 
 #### Trans ID Clinic
 - A fantastic name and sex marker change clinic that pops up a few times a month. Usually in Montreal but sometimes elsewhere in Quebec. Dates and info advertised on the [Translaw Instagram](https://www.instagram.com/translaw/) run by Celeste Trianon.
